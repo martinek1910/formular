@@ -1,0 +1,222 @@
+CRITICAL - 2021-06-17 21:02:35 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 D:\xampp\htdocs\validace\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\validace\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\validace\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\validace\index.php(35): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-17 21:03:47 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 D:\xampp\htdocs\validace\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\validace\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\validace\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\validace\index.php(35): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-17 21:04:17 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 D:\xampp\htdocs\validace\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\validace\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\validace\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\validace\index.php(35): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-17 21:04:17 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 D:\xampp\htdocs\validace\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\validace\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\validace\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\validace\index.php(35): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-17 21:04:18 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 D:\xampp\htdocs\validace\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\validace\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\validace\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\validace\index.php(35): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-17 21:04:18 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 D:\xampp\htdocs\validace\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\validace\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\validace\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\validace\index.php(35): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-17 21:04:18 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 D:\xampp\htdocs\validace\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\validace\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\validace\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\validace\index.php(35): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-17 21:05:38 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 D:\xampp\htdocs\validace\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\validace\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\validace\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\validace\index.php(35): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-17 21:09:56 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 D:\xampp\htdocs\validace\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\validace\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\validace\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\validace\index.php(35): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-17 21:11:28 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 D:\xampp\htdocs\validace\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\validace\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\validace\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\validace\index.php(35): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-17 21:22:35 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 D:\xampp\htdocs\validace\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\validace\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\validace\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\validace\index.php(35): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-17 21:24:41 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 D:\xampp\htdocs\validace\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\validace\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\validace\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\validace\index.php(35): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-06-17 14:44:59 --> Call to undefined function link_tag()
+#0 D:\xampp\htdocs\validace\system\View\View.php(220): include()
+#1 D:\xampp\htdocs\validace\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 D:\xampp\htdocs\validace\app\Controllers\MainController.php(17): view('templates/heade...', Array)
+#4 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->index()
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#6 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-06-17 14:45:19 --> Call to undefined function link_tag()
+#0 D:\xampp\htdocs\validace\system\View\View.php(220): include()
+#1 D:\xampp\htdocs\validace\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 D:\xampp\htdocs\validace\app\Controllers\MainController.php(17): view('templates/heade...', Array)
+#4 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->index()
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#6 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-06-17 14:45:20 --> Call to undefined function link_tag()
+#0 D:\xampp\htdocs\validace\system\View\View.php(220): include()
+#1 D:\xampp\htdocs\validace\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 D:\xampp\htdocs\validace\app\Controllers\MainController.php(17): view('templates/heade...', Array)
+#4 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->index()
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#6 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-06-17 14:45:20 --> Call to undefined function link_tag()
+#0 D:\xampp\htdocs\validace\system\View\View.php(220): include()
+#1 D:\xampp\htdocs\validace\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 D:\xampp\htdocs\validace\app\Controllers\MainController.php(17): view('templates/heade...', Array)
+#4 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->index()
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#6 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-06-17 14:45:20 --> Call to undefined function link_tag()
+#0 D:\xampp\htdocs\validace\system\View\View.php(220): include()
+#1 D:\xampp\htdocs\validace\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 D:\xampp\htdocs\validace\app\Controllers\MainController.php(17): view('templates/heade...', Array)
+#4 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->index()
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#6 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-06-17 14:54:44 --> Undefined variable: roles
+#0 D:\xampp\htdocs\validace\app\Views\Main\view.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 66, Array)
+#1 D:\xampp\htdocs\validace\system\View\View.php(220): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\validace\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('Main/view', Array, true)
+#4 D:\xampp\htdocs\validace\app\Controllers\MainController.php(18): view('Main/view')
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->index()
+#6 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#7 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-06-17 14:57:46 --> Undefined variable: roles
+#0 D:\xampp\htdocs\validace\app\Views\Form\index.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 66, Array)
+#1 D:\xampp\htdocs\validace\system\View\View.php(220): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\validace\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('Form/index', Array, true)
+#4 D:\xampp\htdocs\validace\app\Controllers\MainController.php(18): view('Form/index')
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->index()
+#6 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#7 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-06-17 14:58:06 --> Undefined variable: roles
+#0 D:\xampp\htdocs\validace\app\Views\Form\index.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 66, Array)
+#1 D:\xampp\htdocs\validace\system\View\View.php(220): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\validace\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('Form/index', Array, true)
+#4 D:\xampp\htdocs\validace\app\Controllers\MainController.php(18): view('Form/index')
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->index()
+#6 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#7 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-06-17 15:01:14 --> Undefined variable: roles
+#0 D:\xampp\htdocs\validace\app\Views\Main\view.php(68): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 68, Array)
+#1 D:\xampp\htdocs\validace\system\View\View.php(220): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\validace\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('Main/view', Array, true)
+#4 D:\xampp\htdocs\validace\app\Controllers\MainController.php(18): view('Main/view')
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->index()
+#6 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#7 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-06-17 15:03:42 --> Undefined variable: roles
+#0 D:\xampp\htdocs\validace\app\Views\Main\view.php(68): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 68, Array)
+#1 D:\xampp\htdocs\validace\system\View\View.php(220): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\validace\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('Main/view', Array, true)
+#4 D:\xampp\htdocs\validace\app\Controllers\MainController.php(18): view('Main/view')
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->index()
+#6 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#7 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-06-17 15:12:55 --> Invalid file: Form/index.php
+#0 D:\xampp\htdocs\validace\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Form/index.php')
+#1 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('Form/index', Array, true)
+#2 D:\xampp\htdocs\validace\app\Controllers\MainController.php(46): view('Form/index', Array)
+#3 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->validateIndex()
+#4 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-17 15:13:19 --> Invalid file: Form/index.php
+#0 D:\xampp\htdocs\validace\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Form/index.php')
+#1 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('Form/index', Array, true)
+#2 D:\xampp\htdocs\validace\app\Controllers\MainController.php(46): view('Form/index', Array)
+#3 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->validateIndex()
+#4 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-17 15:13:27 --> Invalid file: Form/index.php
+#0 D:\xampp\htdocs\validace\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Form/index.php')
+#1 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('Form/index', Array, true)
+#2 D:\xampp\htdocs\validace\app\Controllers\MainController.php(46): view('Form/index', Array)
+#3 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->validateIndex()
+#4 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-17 15:13:36 --> Invalid file: Form/index.php
+#0 D:\xampp\htdocs\validace\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Form/index.php')
+#1 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('Form/index', Array, true)
+#2 D:\xampp\htdocs\validace\app\Controllers\MainController.php(46): view('Form/index', Array)
+#3 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->validateIndex()
+#4 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-17 15:13:41 --> Invalid file: Form/index.php
+#0 D:\xampp\htdocs\validace\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Form/index.php')
+#1 D:\xampp\htdocs\validace\system\Common.php(1217): CodeIgniter\View\View->render('Form/index', Array, true)
+#2 D:\xampp\htdocs\validace\app\Controllers\MainController.php(46): view('Form/index', Array)
+#3 D:\xampp\htdocs\validace\system\CodeIgniter.php(936): App\Controllers\MainController->validateIndex()
+#4 D:\xampp\htdocs\validace\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#5 D:\xampp\htdocs\validace\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\validace\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
